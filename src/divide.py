@@ -4,5 +4,6 @@ def divide(a, b):
 
 a = 8
 b = 2
-result = divide(a, b)
-print("Division_result:", result)
+divide = divide(a, b)
+result = divide
+print("result_division:", result)
