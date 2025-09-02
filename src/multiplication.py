@@ -3,5 +3,6 @@ def multiply(a, b):
 
 a = 8
 b = 2
-result = multiply(a, b)
-print("Multiplication_result:", result)
+multiplucation = multiply(a, b)
+print("result_multiplication:", multiplucation) 
+
