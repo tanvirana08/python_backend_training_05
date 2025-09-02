@@ -6,5 +6,5 @@ def add(val1, val2):
     return sum
 
 
-addition_result = add(a, b)
-print(addition_result)
+result_addition = add(a, b)
+print(result_addition)
